@@ -5,7 +5,7 @@
 
     <div class="card text-center">
   <div class="card-header">
-   <h3>Data Statistic SMKN 4 Tasikmalaya</h3>
+   <h3>Estrakurikuler Non olahraga</h3>
   </div>
   <div class="card-body">
     <h5 class="card-title">Sssst... Kami sedang berkreasi di balik layar!</h5>

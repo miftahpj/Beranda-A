@@ -23,7 +23,7 @@
             Profil
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" >Sejarah</a></li>
+            <li><a class="dropdown-item" href="/profil/sejarah">Sejarah</a></li>
             <li><a class="dropdown-item" href="/profil/vm">Visi Misi</a></li>
             <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="/profil/ds">Data Statistic</a></li>
@@ -35,7 +35,7 @@
           </a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="/eskul/ol">Olahraga</a></li>
-            <li><a class="dropdown-item" href="#">Non Olahraga</a></li>
+            <li><a class="dropdown-item" href="/eskul/nl">Non Olahraga</a></li>
           </ul>
         </li>
         <li class="nav-item dropdown">
@@ -43,13 +43,12 @@
             Kurikulum
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Kompetensi Keahlian</a></li>
-            <li><a class="dropdown-item" href="#">Visi Misi</a></li>
+            <li><a class="dropdown-item" href="/kurikulum/jw">Pembelajaran</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#">Something else here</a></li>
+            <li><a class="dropdown-item" href="#">jadwal</a></li>
           </ul>
         </li>
-        <li class="nav-item dropdown">
+        <!-- <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Siswa
           </a>
@@ -59,7 +58,7 @@
             <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="#">Something else here</a></li>
           </ul>
-        </li>
+        </li> -->
         <li class="nav-item">
           <a class="nav-link" href="/artikel">artikel</a>
         </li>
